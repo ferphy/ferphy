@@ -1,4 +1,7 @@
-### Hi there 👋
+Hola, mi nombre es Fernando González👋
+###  Sound & Image engineer
+
+Soy ingeniero en sonido e imagen, aunque siempre me ha llamado mucho la atención el mundo de la programación y por tanto me metí en el mundo de la Inteligencia Artificial. Me encantaría aprender de distintas tecnologías relacionadas con la programación para poder hacer todos aquellos proyectos que siempre he tenido en mente.
 
 <!--
 **ferphy/ferphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
