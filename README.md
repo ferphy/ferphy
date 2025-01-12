@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ferphy_/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-gonz%C3%A1lez-laso-b55b77250/)
 
-Soy Ingeniero de Sonido e Imagen, aunque siempre me ha llamado mucho la atención el mundo de la programación y por tanto me sumergí en la Inteligencia Artificial. Estoy aquí para aprender y enfrentarme a nuevos retos cada día!
+Soy Ingeniero de Telecomunicaciones especializado en Sonido e Imagen, aunque siempre me ha llamado mucho la atención el mundo de la programación y por tanto me sumergí en el Desarrollo Android. Estoy aquí para mostrar mis logros y enfrentarme a nuevos retos cada día!
 
 ### Skills
 
