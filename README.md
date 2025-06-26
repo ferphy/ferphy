@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-gonz%C3%A1lez-laso-b55b77250/)
 
-I am a Telecommunications Engineer specialized in Sound and Image, although I've always been very interested in programming, which led me to dive into Android Development. I'm here to showcase my achievements and face new challenges every day!
+I am a Telecommunications Engineer specialized in Sound and Image, although I've always been very interested in coding, which led me to dive into Android Development and Data Science. I'm here to showcase my achievements and face new challenges every day!
 
 ### Skills
 
