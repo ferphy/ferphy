@@ -1,28 +1,47 @@
-# <img src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif?cid=790b7611vbbl0mhwf0qje48jfictwhzq83mg7ujxk1c0l6r0&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100"/> Welcome to Ferphy's GitHub
+# 👋 Hi, I'm Fernando  
 
-![Ferphy](https://github.com/user-attachments/assets/cdb26536-df6f-4ca9-87a2-265eed769be0)
+🎯 **Data Scientist | Machine Learning Enthusiast | Problem Solver**  
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-gonz%C3%A1lez-laso-b55b77250/)
+I’m passionate about data and technology, with experience in **SQL, Python, Machine Learning, and Data Visualization**. I enjoy turning data into **actionable insights** and building solutions that make real-world impact. I’m currently working on **recommendation systems** projects.  
 
-I am a Telecommunications Engineer specialized in Sound and Image, although I've always been very interested in coding, which led me to dive into Android Development and Data Science. I'm here to showcase my achievements and face new challenges every day!
+---
 
-### Skills
+## 🚀 About Me  
+- 📊 Background in **Telecommunications Engineering**  
+- 💻 Experience with **Python (pandas, sklearn, numpy, etc.) and SQL**  
+- 📈 Interests in **Machine Learning, Data Analysis, and Big Data**  
+- 🌍 Goal: to grow in the **Tech & Big Tech sector** as a **Data Scientist**  
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
-<a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
-</p>
+---
 
-![Ferphy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferphy&show_icons=true&theme=dark)
+## 🛠️ Tech Stack  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferphy&layout=compact&theme=dark)
+**Languages & Tools**  
+- 🐍 Python, SQL, Kotlin  
+- 📊 pandas, numpy, matplotlib, seaborn, scikit-learn, XGBoost, LightGBM  
+- 🤖 PyTorch / TensorFlow (basic/intermediate)  
+- 📈 Power BI, Excel  
+- 🔧 Git & GitHub  
+
+---
+
+## 📂 Featured Projects  
+
+🔹 [📊 Telco Customer Churn Prediction](https://github.com/ferphy/Telco-Customer-Churn-Prediction)  
+*Classification model to predict customer churn using Logistic Regression, Random Forest, and XGBoost. Evaluated with F1 and AUC-ROC, interpreted with SHAP.*  
+
+🔹 [📈 Life Insurance Cost Prediction](https://github.com/ferphy/Healthcare-Insurance-Costs-Regression)  
+*Regression-based model to predict life insurance costs based on customer habits.*  
+
+🔹 [🧩 Customer Segmentation](https://github.com/ferphy/Customer-Segmentation-Kmeans)  
+*Customer segmentation system to propose potential marketing strategies tailored to each group.*  
+
+---
+
+## 📫 Contact  
+- 💼 [LinkedIn](https://www.linkedin.com/in/fernando-gonz%C3%A1lez-laso-b55b77250/)  
+- 📧 [Email](gonzalezlasof@gmail.com)  
+
+---
+
+✨ *Always open to collaborating on Machine Learning, Data Science, and Data Analytics projects.*  
