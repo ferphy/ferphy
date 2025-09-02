@@ -40,7 +40,7 @@ I’m passionate about data and technology, with experience in **SQL, Python, Ma
 
 ## 📫 Contact  
 - 💼 [LinkedIn](https://www.linkedin.com/in/fernando-gonz%C3%A1lez-laso-b55b77250/)  
-- 📧 [Email](gonzalezlasof@gmail.com)  
+- 📧 Email: gonzalezlasof@gmail.com 
 
 ---
 
